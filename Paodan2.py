@@ -1,7 +1,7 @@
 import pygame
 
 
-class Pao2(object):
+class Pao(object):
     def __init__(self,paopos,Direction,source,speed,breakdown_ice):
         self.paopos = paopos
         self.Direction =Direction
